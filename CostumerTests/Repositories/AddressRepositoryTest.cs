@@ -146,13 +146,6 @@ namespace BuySytemTests.Repositories
             Assert.IsTrue(_deleted);
         }
         [TestMethod]
-        public async Task Address_Repository_Delete_Error() // Foreign Key error
-        {
-            var _deleted = await _adressRepository.Delete(Guid.Empty);
-
-            Assert.AreEqual(_deleted, false);
-        }
-        [TestMethod]
         public async Task Address_Repository_Get_Success()
         {
             var _costumerEntity = new CostumerEntity()
@@ -188,13 +181,6 @@ namespace BuySytemTests.Repositories
             Assert.AreEqual(_addressEntity.neighborhood, _get.neighborhood);
             Assert.AreEqual(_addressEntity.addressNumber, _get.addressNumber);
             Assert.AreEqual(_addressEntity.costumerId, _get.costumerId);
-        }
-        [TestMethod]
-        public async Task Address_Repository_Get_Error()// mesmo esquema do delete
-        {
-            var _get = await _adressRepository.Get(Guid.Empty);
-
-            Assert.AreEqual(_get.Id, Guid.Empty);
         }
         [TestMethod]
         public async Task Address_Repository_GetAddressByCostumerId_Success()
