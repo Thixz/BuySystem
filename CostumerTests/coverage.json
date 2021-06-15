@@ -1,0 +1,4104 @@
+{
+  "System.Application.dll": {
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Program.cs": {
+      "System.Application.Program": {
+        "System.Void System.Application.Program::Main(System.String[])": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Validators\\Products\\ProductPostRequestValidator.cs": {
+      "System.Application.Validators.Products.ProductPostRequestValidator": {
+        "System.Void System.Application.Validators.Products.ProductPostRequestValidator::.ctor()": {
+          "Lines": {
+            "13": 4,
+            "14": 4,
+            "15": 8,
+            "16": 4,
+            "18": 8,
+            "19": 4,
+            "21": 8,
+            "22": 4,
+            "24": 8,
+            "25": 4,
+            "27": 8,
+            "28": 4,
+            "30": 8,
+            "31": 4,
+            "32": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Validators\\Products\\ProductPutRequestValidator.cs": {
+      "System.Application.Validators.Products.ProductPutRequestValidator": {
+        "System.Void System.Application.Validators.Products.ProductPutRequestValidator::.ctor()": {
+          "Lines": {
+            "13": 4,
+            "14": 4,
+            "15": 8,
+            "16": 4,
+            "18": 8,
+            "19": 4,
+            "21": 8,
+            "22": 4,
+            "24": 8,
+            "25": 4,
+            "27": 8,
+            "28": 4,
+            "30": 8,
+            "31": 4,
+            "32": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Validators\\Orders\\OrderPostRequestValidator.cs": {
+      "System.Application.Validators.Orders.OrderPostRequestValidator": {
+        "System.Void System.Application.Validators.Orders.OrderPostRequestValidator::.ctor()": {
+          "Lines": {
+            "13": 6,
+            "14": 6,
+            "15": 12,
+            "16": 6,
+            "18": 12,
+            "19": 6,
+            "21": 12,
+            "22": 6,
+            "23": 6
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Validators\\OrderItems\\OrderItemPostRequestValidator.cs": {
+      "System.Application.Validators.OrderItems.OrderItemPostRequestValidator": {
+        "System.Void System.Application.Validators.OrderItems.OrderItemPostRequestValidator::.ctor()": {
+          "Lines": {
+            "13": 2,
+            "14": 2,
+            "15": 4,
+            "16": 2,
+            "18": 4,
+            "19": 2,
+            "21": 4,
+            "22": 2,
+            "24": 4,
+            "25": 2,
+            "26": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Validators\\OrderItems\\OrderItemPutRequestValidator.cs": {
+      "System.Application.Validators.OrderItems.OrderItemPutRequestValidator": {
+        "System.Void System.Application.Validators.OrderItems.OrderItemPutRequestValidator::.ctor()": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Validators\\Costumers\\CostumerPostRequestValidator.cs": {
+      "System.Application.Validators.Costumers.CostumerPostRequestValidator": {
+        "System.Void System.Application.Validators.Costumers.CostumerPostRequestValidator::.ctor()": {
+          "Lines": {
+            "13": 4,
+            "14": 4,
+            "15": 8,
+            "16": 4,
+            "18": 8,
+            "19": 4,
+            "21": 8,
+            "22": 4,
+            "24": 8,
+            "25": 4,
+            "27": 8,
+            "28": 4,
+            "29": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Validators\\Costumers\\CostumerPutRequestValidator.cs": {
+      "System.Application.Validators.Costumers.CostumerPutRequestValidator": {
+        "System.Void System.Application.Validators.Costumers.CostumerPutRequestValidator::.ctor()": {
+          "Lines": {
+            "13": 4,
+            "14": 4,
+            "15": 8,
+            "16": 4,
+            "18": 8,
+            "19": 4,
+            "21": 8,
+            "22": 4,
+            "24": 8,
+            "25": 4,
+            "27": 8,
+            "28": 4,
+            "29": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Validators\\Addresses\\AddressPostRequestValidator.cs": {
+      "System.Application.Validators.Addresses.AddressPostRequestValidator": {
+        "System.Void System.Application.Validators.Addresses.AddressPostRequestValidator::.ctor()": {
+          "Lines": {
+            "13": 2,
+            "14": 2,
+            "15": 4,
+            "16": 2,
+            "18": 4,
+            "19": 2,
+            "21": 4,
+            "22": 2,
+            "24": 4,
+            "25": 2,
+            "27": 4,
+            "28": 2,
+            "29": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Validators\\Addresses\\AddressPutRequestValidator.cs": {
+      "System.Application.Validators.Addresses.AddressPutRequestValidator": {
+        "System.Void System.Application.Validators.Addresses.AddressPutRequestValidator::.ctor()": {
+          "Lines": {
+            "13": 2,
+            "14": 2,
+            "15": 4,
+            "16": 2,
+            "18": 4,
+            "19": 2,
+            "21": 4,
+            "22": 2,
+            "24": 4,
+            "25": 2,
+            "27": 4,
+            "28": 2,
+            "29": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Services\\Products\\ProductService.cs": {
+      "System.Application.Services.Products.ProductService": {
+        "System.Application.Helpers.Costumers.DefaultResponse System.Application.Services.Products.ProductService::Create(System.Application.Contracts.Request.Products.ProductPostRequest)": {
+          "Lines": {
+            "36": 4,
+            "37": 4,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "43": 4,
+            "44": 4,
+            "45": 1,
+            "46": 1,
+            "47": 1,
+            "50": 3,
+            "51": 1,
+            "52": 1,
+            "53": 1,
+            "56": 2,
+            "57": 2,
+            "58": 1,
+            "59": 1,
+            "60": 1,
+            "63": 1,
+            "64": 4
+          },
+          "Branches": [
+            {
+              "Line": 37,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 7,
+              "EndOffset": 55,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 44,
+              "Offset": 80,
+              "EndOffset": 82,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 44,
+              "Offset": 80,
+              "EndOffset": 149,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 50,
+              "Offset": 173,
+              "EndOffset": 175,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 50,
+              "Offset": 173,
+              "EndOffset": 218,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            },
+            {
+              "Line": 57,
+              "Offset": 244,
+              "EndOffset": 246,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 57,
+              "Offset": 244,
+              "EndOffset": 289,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Application.Helpers.Costumers.DefaultResponse System.Application.Services.Products.ProductService::Update(System.Application.Contracts.Request.Products.ProductPutRequest)": {
+          "Lines": {
+            "67": 5,
+            "68": 5,
+            "69": 1,
+            "70": 1,
+            "71": 1,
+            "74": 4,
+            "75": 4,
+            "76": 1,
+            "77": 1,
+            "78": 1,
+            "81": 3,
+            "82": 3,
+            "83": 1,
+            "84": 1,
+            "85": 1,
+            "88": 2,
+            "89": 1,
+            "90": 1,
+            "91": 1,
+            "94": 1,
+            "95": 5
+          },
+          "Branches": [
+            {
+              "Line": 68,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 68,
+              "Offset": 19,
+              "EndOffset": 68,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 75,
+              "Offset": 93,
+              "EndOffset": 95,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 75,
+              "Offset": 93,
+              "EndOffset": 162,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 82,
+              "Offset": 181,
+              "EndOffset": 183,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 82,
+              "Offset": 181,
+              "EndOffset": 202,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            },
+            {
+              "Line": 82,
+              "Offset": 207,
+              "EndOffset": 209,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 82,
+              "Offset": 207,
+              "EndOffset": 253,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 2
+            },
+            {
+              "Line": 88,
+              "Offset": 277,
+              "EndOffset": 279,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 1
+            },
+            {
+              "Line": 88,
+              "Offset": 277,
+              "EndOffset": 323,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Application.Helpers.Costumers.DefaultResponse System.Application.Services.Products.ProductService::Delete(System.Guid)": {
+          "Lines": {
+            "98": 5,
+            "99": 5,
+            "100": 1,
+            "101": 1,
+            "102": 1,
+            "105": 4,
+            "106": 1,
+            "107": 1,
+            "108": 1,
+            "111": 3,
+            "112": 1,
+            "113": 1,
+            "114": 1,
+            "117": 2,
+            "118": 1,
+            "119": 1,
+            "120": 1,
+            "123": 1,
+            "124": 5
+          },
+          "Branches": [
+            {
+              "Line": 99,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 99,
+              "Offset": 14,
+              "EndOffset": 63,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 105,
+              "Offset": 80,
+              "EndOffset": 82,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 105,
+              "Offset": 80,
+              "EndOffset": 129,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 111,
+              "Offset": 146,
+              "EndOffset": 148,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 111,
+              "Offset": 146,
+              "EndOffset": 192,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            },
+            {
+              "Line": 117,
+              "Offset": 211,
+              "EndOffset": 213,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 117,
+              "Offset": 211,
+              "EndOffset": 257,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Application.Helpers.Costumers.DefaultResponse System.Application.Services.Products.ProductService::Get(System.Guid)": {
+          "Lines": {
+            "127": 3,
+            "128": 3,
+            "129": 1,
+            "130": 1,
+            "131": 1,
+            "134": 2,
+            "135": 1,
+            "136": 1,
+            "137": 1,
+            "140": 1,
+            "141": 3
+          },
+          "Branches": [
+            {
+              "Line": 128,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 128,
+              "Offset": 14,
+              "EndOffset": 60,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 134,
+              "Offset": 77,
+              "EndOffset": 79,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 134,
+              "Offset": 77,
+              "EndOffset": 123,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void System.Application.Services.Products.ProductService::.ctor(System.Application.Data.Repositories.Products.ProductRepository,Microsoft.Extensions.Logging.ILogger`1<System.Application.Services.Products.ProductService>,System.Application.Data.Repositories.OrderItems.OrderItemRepository)": {
+          "Lines": {
+            "28": 17,
+            "29": 17,
+            "30": 17,
+            "31": 17,
+            "32": 17,
+            "33": 17
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Services\\Orders\\OrderService.cs": {
+      "System.Application.Services.Orders.OrderService": {
+        "System.Application.Helpers.Costumers.DefaultResponse System.Application.Services.Orders.OrderService::Create(System.Application.Contracts.Request.Orders.OrderPostRequest)": {
+          "Lines": {
+            "36": 6,
+            "37": 6,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "43": 6,
+            "44": 6,
+            "45": 1,
+            "46": 1,
+            "47": 1,
+            "50": 5,
+            "51": 15,
+            "52": 25,
+            "53": 5,
+            "54": 5,
+            "55": 5,
+            "56": 5,
+            "57": 5,
+            "58": 5,
+            "59": 1,
+            "60": 1,
+            "61": 1,
+            "64": 4,
+            "65": 1,
+            "66": 1,
+            "67": 1,
+            "70": 3,
+            "71": 3,
+            "72": 2,
+            "73": 10,
+            "74": 2,
+            "75": 2,
+            "76": 2,
+            "77": 2,
+            "78": 2,
+            "79": 2,
+            "80": 2,
+            "81": 2,
+            "82": 2,
+            "83": 2,
+            "84": 2,
+            "85": 2,
+            "86": 1,
+            "88": 2,
+            "89": 2,
+            "90": 2,
+            "92": 1,
+            "93": 1,
+            "96": 2,
+            "97": 1,
+            "98": 1,
+            "99": 1,
+            "100": 1,
+            "103": 1,
+            "104": 6
+          },
+          "Branches": [
+            {
+              "Line": 37,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 9,
+              "EndOffset": 52,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 6
+            },
+            {
+              "Line": 44,
+              "Offset": 77,
+              "EndOffset": 79,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 44,
+              "Offset": 77,
+              "EndOffset": 147,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 5
+            },
+            {
+              "Line": 52,
+              "Offset": 246,
+              "EndOffset": 196,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 5
+            },
+            {
+              "Line": 52,
+              "Offset": 246,
+              "EndOffset": 248,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 5
+            },
+            {
+              "Line": 58,
+              "Offset": 272,
+              "EndOffset": 274,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 4
+            },
+            {
+              "Line": 58,
+              "Offset": 282,
+              "EndOffset": 284,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 4
+            },
+            {
+              "Line": 58,
+              "Offset": 272,
+              "EndOffset": 298,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            },
+            {
+              "Line": 58,
+              "Offset": 282,
+              "EndOffset": 298,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 1
+            },
+            {
+              "Line": 58,
+              "Offset": 303,
+              "EndOffset": 305,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 1
+            },
+            {
+              "Line": 58,
+              "Offset": 303,
+              "EndOffset": 346,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 4
+            },
+            {
+              "Line": 64,
+              "Offset": 370,
+              "EndOffset": 372,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 1
+            },
+            {
+              "Line": 64,
+              "Offset": 370,
+              "EndOffset": 419,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 3
+            },
+            {
+              "Line": 71,
+              "Offset": 447,
+              "EndOffset": 452,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 2
+            },
+            {
+              "Line": 73,
+              "Offset": 632,
+              "EndOffset": 473,
+              "Path": 1,
+              "Ordinal": 19,
+              "Hits": 2
+            },
+            {
+              "Line": 85,
+              "Offset": 603,
+              "EndOffset": 605,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 1
+            },
+            {
+              "Line": 85,
+              "Offset": 603,
+              "EndOffset": 609,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 2
+            },
+            {
+              "Line": 73,
+              "Offset": 632,
+              "EndOffset": 637,
+              "Path": 0,
+              "Ordinal": 18,
+              "Hits": 2
+            },
+            {
+              "Line": 71,
+              "Offset": 447,
+              "EndOffset": 657,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 1
+            },
+            {
+              "Line": 96,
+              "Offset": 687,
+              "EndOffset": 689,
+              "Path": 0,
+              "Ordinal": 20,
+              "Hits": 1
+            },
+            {
+              "Line": 96,
+              "Offset": 687,
+              "EndOffset": 746,
+              "Path": 1,
+              "Ordinal": 21,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Application.Helpers.Costumers.DefaultResponse System.Application.Services.Orders.OrderService::Delete(System.Guid)": {
+          "Lines": {
+            "107": 5,
+            "108": 5,
+            "109": 1,
+            "110": 1,
+            "111": 1,
+            "114": 4,
+            "115": 1,
+            "116": 1,
+            "117": 1,
+            "120": 3,
+            "121": 1,
+            "122": 1,
+            "123": 1,
+            "126": 2,
+            "127": 1,
+            "128": 1,
+            "129": 1,
+            "132": 1,
+            "133": 5
+          },
+          "Branches": [
+            {
+              "Line": 108,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 108,
+              "Offset": 14,
+              "EndOffset": 62,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 114,
+              "Offset": 79,
+              "EndOffset": 81,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 114,
+              "Offset": 79,
+              "EndOffset": 128,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 120,
+              "Offset": 145,
+              "EndOffset": 147,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 120,
+              "Offset": 145,
+              "EndOffset": 191,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            },
+            {
+              "Line": 126,
+              "Offset": 210,
+              "EndOffset": 212,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 126,
+              "Offset": 210,
+              "EndOffset": 256,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Application.Helpers.Costumers.DefaultResponse System.Application.Services.Orders.OrderService::Get(System.Guid)": {
+          "Lines": {
+            "136": 3,
+            "137": 3,
+            "138": 1,
+            "139": 1,
+            "140": 1,
+            "143": 2,
+            "144": 2,
+            "145": 1,
+            "146": 1,
+            "147": 1,
+            "150": 1,
+            "151": 3,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "156": 1,
+            "157": 3
+          },
+          "Branches": [
+            {
+              "Line": 137,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 137,
+              "Offset": 14,
+              "EndOffset": 63,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 144,
+              "Offset": 82,
+              "EndOffset": 84,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 144,
+              "Offset": 82,
+              "EndOffset": 128,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 151,
+              "Offset": 194,
+              "EndOffset": 162,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 151,
+              "Offset": 194,
+              "EndOffset": 196,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void System.Application.Services.Orders.OrderService::.ctor(System.Application.Data.Repositories.Orders.OrderRepository,System.Application.Services.OrderItems.OrderItemService,Microsoft.Extensions.Logging.ILogger`1<System.Application.Services.Orders.OrderService>,System.Application.Data.Repositories.OrderItems.OrderItemRepository)": {
+          "Lines": {
+            "27": 14,
+            "28": 14,
+            "29": 14,
+            "30": 14,
+            "31": 14,
+            "32": 14,
+            "33": 14
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Services\\OrderItems\\OrderItemService.cs": {
+      "System.Application.Services.OrderItems.OrderItemService": {
+        "System.Application.Helpers.Costumers.DefaultResponse System.Application.Services.OrderItems.OrderItemService::Create(System.Application.Contracts.Request.OrderItems.OrderItemPostRequest)": {
+          "Lines": {
+            "28": 2,
+            "29": 2,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "35": 2,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "41": 2,
+            "42": 2,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "48": 2,
+            "49": 2,
+            "50": 1,
+            "51": 1,
+            "52": 1,
+            "55": 1,
+            "56": 2
+          },
+          "Branches": [
+            {
+              "Line": 29,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 7,
+              "EndOffset": 49,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 35,
+              "Offset": 65,
+              "EndOffset": 67,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 35,
+              "Offset": 65,
+              "EndOffset": 85,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 90,
+              "EndOffset": 92,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 90,
+              "EndOffset": 138,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            },
+            {
+              "Line": 42,
+              "Offset": 163,
+              "EndOffset": 165,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 42,
+              "Offset": 163,
+              "EndOffset": 229,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 2
+            },
+            {
+              "Line": 49,
+              "Offset": 255,
+              "EndOffset": 257,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 1
+            },
+            {
+              "Line": 49,
+              "Offset": 255,
+              "EndOffset": 300,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Application.Helpers.Costumers.DefaultResponse System.Application.Services.OrderItems.OrderItemService::Update(System.Application.Contracts.Request.OrderItems.OrderItemPutRequest)": {
+          "Lines": {
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "78": 0,
+            "79": 0
+          },
+          "Branches": [
+            {
+              "Line": 59,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 59,
+              "Offset": 7,
+              "EndOffset": 49,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 66,
+              "Offset": 72,
+              "EndOffset": 74,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 66,
+              "Offset": 72,
+              "EndOffset": 138,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 72,
+              "Offset": 162,
+              "EndOffset": 164,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 72,
+              "Offset": 162,
+              "EndOffset": 208,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Application.Helpers.Costumers.DefaultResponse System.Application.Services.OrderItems.OrderItemService::Delete(System.Guid)": {
+          "Lines": {
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0
+          },
+          "Branches": [
+            {
+              "Line": 82,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 82,
+              "Offset": 14,
+              "EndOffset": 63,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 88,
+              "Offset": 80,
+              "EndOffset": 82,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 88,
+              "Offset": 80,
+              "EndOffset": 126,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 94,
+              "Offset": 143,
+              "EndOffset": 145,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 94,
+              "Offset": 143,
+              "EndOffset": 189,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Application.Helpers.Costumers.DefaultResponse System.Application.Services.OrderItems.OrderItemService::Get(System.Guid)": {
+          "Lines": {
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "118": 0,
+            "119": 0
+          },
+          "Branches": [
+            {
+              "Line": 105,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 105,
+              "Offset": 14,
+              "EndOffset": 60,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 112,
+              "Offset": 79,
+              "EndOffset": 81,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 112,
+              "Offset": 79,
+              "EndOffset": 125,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void System.Application.Services.OrderItems.OrderItemService::.ctor(System.Application.Data.Repositories.OrderItems.OrderItemRepository,Microsoft.Extensions.Logging.ILogger`1<System.Application.Services.OrderItems.OrderItemService>)": {
+          "Lines": {
+            "21": 14,
+            "22": 14,
+            "23": 14,
+            "24": 14,
+            "25": 14
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Services\\Costumers\\CostumerService.cs": {
+      "System.Application.Services.Costumers.CostumerService": {
+        "System.Application.Helpers.Costumers.DefaultResponse System.Application.Services.Costumers.CostumerService::Create(System.Application.Contracts.Request.Costumers.CostumerPostRequest)": {
+          "Lines": {
+            "36": 4,
+            "37": 4,
+            "38": 4,
+            "39": 4,
+            "40": 1,
+            "41": 1,
+            "42": 1,
+            "45": 3,
+            "46": 1,
+            "47": 1,
+            "48": 1,
+            "51": 2,
+            "52": 1,
+            "53": 1,
+            "54": 1,
+            "57": 1,
+            "58": 4
+          },
+          "Branches": [
+            {
+              "Line": 39,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 39,
+              "Offset": 26,
+              "EndOffset": 95,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 45,
+              "Offset": 119,
+              "EndOffset": 121,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 45,
+              "Offset": 119,
+              "EndOffset": 164,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            },
+            {
+              "Line": 51,
+              "Offset": 188,
+              "EndOffset": 190,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 51,
+              "Offset": 188,
+              "EndOffset": 233,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Application.Helpers.Costumers.DefaultResponse System.Application.Services.Costumers.CostumerService::Update(System.Application.Contracts.Request.Costumers.CostumerPutRequest)": {
+          "Lines": {
+            "61": 5,
+            "62": 5,
+            "63": 1,
+            "64": 1,
+            "65": 1,
+            "68": 4,
+            "69": 4,
+            "70": 4,
+            "71": 1,
+            "72": 1,
+            "73": 1,
+            "76": 3,
+            "77": 1,
+            "78": 1,
+            "79": 1,
+            "82": 2,
+            "83": 2,
+            "84": 1,
+            "85": 1,
+            "86": 1,
+            "89": 1,
+            "90": 5
+          },
+          "Branches": [
+            {
+              "Line": 62,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 62,
+              "Offset": 19,
+              "EndOffset": 69,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 70,
+              "Offset": 96,
+              "EndOffset": 98,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 70,
+              "Offset": 96,
+              "EndOffset": 166,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 76,
+              "Offset": 190,
+              "EndOffset": 192,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 76,
+              "Offset": 190,
+              "EndOffset": 237,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            },
+            {
+              "Line": 83,
+              "Offset": 256,
+              "EndOffset": 258,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 83,
+              "Offset": 256,
+              "EndOffset": 277,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            },
+            {
+              "Line": 83,
+              "Offset": 282,
+              "EndOffset": 284,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 1
+            },
+            {
+              "Line": 83,
+              "Offset": 282,
+              "EndOffset": 329,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Application.Helpers.Costumers.DefaultResponse System.Application.Services.Costumers.CostumerService::Delete(System.Guid)": {
+          "Lines": {
+            "93": 6,
+            "94": 6,
+            "95": 1,
+            "96": 1,
+            "97": 1,
+            "100": 5,
+            "101": 1,
+            "102": 1,
+            "103": 1,
+            "106": 4,
+            "107": 1,
+            "108": 1,
+            "109": 1,
+            "112": 3,
+            "113": 1,
+            "114": 1,
+            "115": 1,
+            "118": 2,
+            "119": 1,
+            "120": 1,
+            "121": 1,
+            "124": 1,
+            "125": 6
+          },
+          "Branches": [
+            {
+              "Line": 94,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 94,
+              "Offset": 14,
+              "EndOffset": 63,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 5
+            },
+            {
+              "Line": 100,
+              "Offset": 80,
+              "EndOffset": 82,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 100,
+              "Offset": 80,
+              "EndOffset": 122,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 4
+            },
+            {
+              "Line": 106,
+              "Offset": 139,
+              "EndOffset": 141,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 106,
+              "Offset": 139,
+              "EndOffset": 181,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 3
+            },
+            {
+              "Line": 112,
+              "Offset": 200,
+              "EndOffset": 202,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 112,
+              "Offset": 200,
+              "EndOffset": 246,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 2
+            },
+            {
+              "Line": 118,
+              "Offset": 265,
+              "EndOffset": 267,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 1
+            },
+            {
+              "Line": 118,
+              "Offset": 265,
+              "EndOffset": 311,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Application.Helpers.Costumers.DefaultResponse System.Application.Services.Costumers.CostumerService::Get(System.Guid)": {
+          "Lines": {
+            "128": 3,
+            "129": 3,
+            "130": 1,
+            "131": 1,
+            "132": 1,
+            "135": 2,
+            "136": 1,
+            "137": 1,
+            "138": 1,
+            "141": 1,
+            "142": 3
+          },
+          "Branches": [
+            {
+              "Line": 129,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 129,
+              "Offset": 14,
+              "EndOffset": 60,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 135,
+              "Offset": 77,
+              "EndOffset": 79,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 135,
+              "Offset": 77,
+              "EndOffset": 123,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void System.Application.Services.Costumers.CostumerService::.ctor(System.Application.Data.Repositories.Costumers.CostumerRepository,Microsoft.Extensions.Logging.ILogger`1<System.Application.Services.Costumers.CostumerService>,System.Application.Data.Repositories.Orders.OrderRepository,System.Application.Data.Repositories.AdressRepository)": {
+          "Lines": {
+            "27": 18,
+            "28": 18,
+            "29": 18,
+            "30": 18,
+            "31": 18,
+            "32": 18,
+            "33": 18
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Services\\Adresses\\AdressService.cs": {
+      "System.Application.Services.Adresses.AdressService": {
+        "System.Application.Helpers.Costumers.DefaultResponse System.Application.Services.Adresses.AdressService::Create(System.Application.Contracts.Request.Adress.AdressPostRequest)": {
+          "Lines": {
+            "31": 3,
+            "32": 3,
+            "33": 1,
+            "34": 1,
+            "35": 1,
+            "38": 2,
+            "39": 2,
+            "40": 1,
+            "41": 1,
+            "42": 1,
+            "45": 1,
+            "46": 3
+          },
+          "Branches": [
+            {
+              "Line": 32,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 32,
+              "Offset": 19,
+              "EndOffset": 64,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 39,
+              "Offset": 87,
+              "EndOffset": 89,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 39,
+              "Offset": 87,
+              "EndOffset": 153,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Application.Helpers.Costumers.DefaultResponse System.Application.Services.Adresses.AdressService::Update(System.Application.Contracts.Request.Adress.AdressPutRequest)": {
+          "Lines": {
+            "49": 4,
+            "50": 4,
+            "51": 1,
+            "52": 1,
+            "53": 1,
+            "56": 3,
+            "57": 1,
+            "58": 1,
+            "59": 1,
+            "62": 2,
+            "63": 2,
+            "64": 1,
+            "65": 1,
+            "66": 1,
+            "69": 1,
+            "70": 4
+          },
+          "Branches": [
+            {
+              "Line": 50,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 50,
+              "Offset": 19,
+              "EndOffset": 67,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 56,
+              "Offset": 85,
+              "EndOffset": 87,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 56,
+              "Offset": 85,
+              "EndOffset": 130,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            },
+            {
+              "Line": 63,
+              "Offset": 155,
+              "EndOffset": 157,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 63,
+              "Offset": 155,
+              "EndOffset": 221,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Application.Helpers.Costumers.DefaultResponse System.Application.Services.Adresses.AdressService::Delete(System.Guid)": {
+          "Lines": {
+            "73": 5,
+            "74": 5,
+            "75": 1,
+            "76": 1,
+            "77": 1,
+            "80": 4,
+            "81": 1,
+            "82": 1,
+            "83": 1,
+            "86": 3,
+            "87": 1,
+            "88": 1,
+            "89": 1,
+            "92": 2,
+            "93": 1,
+            "94": 1,
+            "95": 1,
+            "98": 1,
+            "99": 5
+          },
+          "Branches": [
+            {
+              "Line": 74,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 74,
+              "Offset": 14,
+              "EndOffset": 63,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 80,
+              "Offset": 80,
+              "EndOffset": 82,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 80,
+              "Offset": 80,
+              "EndOffset": 129,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 86,
+              "Offset": 146,
+              "EndOffset": 148,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 86,
+              "Offset": 146,
+              "EndOffset": 192,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            },
+            {
+              "Line": 92,
+              "Offset": 211,
+              "EndOffset": 213,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 92,
+              "Offset": 211,
+              "EndOffset": 257,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Application.Helpers.Costumers.DefaultResponse System.Application.Services.Adresses.AdressService::Get(System.Guid)": {
+          "Lines": {
+            "102": 3,
+            "103": 3,
+            "104": 1,
+            "105": 1,
+            "106": 1,
+            "109": 2,
+            "110": 1,
+            "111": 1,
+            "112": 1,
+            "115": 1,
+            "116": 3
+          },
+          "Branches": [
+            {
+              "Line": 103,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 103,
+              "Offset": 14,
+              "EndOffset": 60,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 109,
+              "Offset": 77,
+              "EndOffset": 79,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 109,
+              "Offset": 77,
+              "EndOffset": 123,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void System.Application.Services.Adresses.AdressService::.ctor(System.Application.Data.Repositories.AdressRepository,Microsoft.Extensions.Logging.ILogger`1<System.Application.Services.Adresses.AdressService>,System.Application.Data.Repositories.Orders.OrderRepository)": {
+          "Lines": {
+            "23": 15,
+            "24": 15,
+            "25": 15,
+            "26": 15,
+            "27": 15,
+            "28": 15
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Helpers\\GetEnumDescription.cs": {
+      "System.Application.Helpers.GetEnumDescription": {
+        "T System.Application.Helpers.GetEnumDescription::AttributeType(System.Enum)": {
+          "Lines": {
+            "13": 173,
+            "14": 173,
+            "15": 173,
+            "16": 173,
+            "17": 173,
+            "18": 173
+          },
+          "Branches": [
+            {
+              "Line": 17,
+              "Offset": 43,
+              "EndOffset": 45,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 17,
+              "Offset": 43,
+              "EndOffset": 56,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 173
+            }
+          ]
+        },
+        "System.String System.Application.Helpers.GetEnumDescription::GetDescription(System.Enum)": {
+          "Lines": {
+            "21": 173,
+            "22": 173,
+            "23": 173
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Helpers\\HttpConvert.cs": {
+      "System.Application.Helpers.HttpConvert": {
+        "Microsoft.AspNetCore.Mvc.IActionResult System.Application.Helpers.HttpConvert::Convert(System.Application.Helpers.Costumers.DefaultResponse)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": [
+            {
+              "Line": 14,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 14,
+              "Offset": 9,
+              "EndOffset": 37,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Helpers\\ToErrorList.cs": {
+      "System.Application.Helpers.ToErrorList": {
+        "System.Collections.Generic.List`1<System.String> System.Application.Helpers.ToErrorList::ErrorList(System.Collections.Generic.IList`1<FluentValidation.Results.ValidationFailure>)": {
+          "Lines": {
+            "11": 14,
+            "12": 14,
+            "14": 174,
+            "15": 66,
+            "16": 66,
+            "17": 66,
+            "18": 14,
+            "19": 14
+          },
+          "Branches": [
+            {
+              "Line": 14,
+              "Offset": 45,
+              "EndOffset": 17,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 66
+            },
+            {
+              "Line": 14,
+              "Offset": 45,
+              "EndOffset": 47,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 14
+            }
+          ]
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Helpers\\DefaultResponse\\DefaultResponse.cs": {
+      "System.Application.Helpers.Costumers.DefaultResponse": {
+        "System.Boolean System.Application.Helpers.Costumers.DefaultResponse::get_success()": {
+          "Lines": {
+            "9": 132
+          },
+          "Branches": []
+        }
+      },
+      "System.Application.Helpers.Costumers.DefaultResponse`1": {
+        "T System.Application.Helpers.Costumers.DefaultResponse`1::get_data()": {
+          "Lines": {
+            "18": 66
+          },
+          "Branches": []
+        },
+        "System.Void System.Application.Helpers.Costumers.DefaultResponse`1::.ctor(T)": {
+          "Lines": {
+            "14": 66,
+            "15": 66,
+            "16": 66,
+            "17": 66
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Helpers\\DefaultResponse\\PrepareDefault.cs": {
+      "System.Application.Helpers.Costumers.PrepareDefault": {
+        "System.Application.Helpers.Costumers.DefaultResponse`1<T> System.Application.Helpers.Costumers.PrepareDefault::SuccessResponse(T)": {
+          "Lines": {
+            "10": 16,
+            "11": 16,
+            "12": 16,
+            "13": 16,
+            "14": 16,
+            "15": 16
+          },
+          "Branches": []
+        },
+        "System.Application.Helpers.Costumers.DefaultResponse`1<T> System.Application.Helpers.Costumers.PrepareDefault::ErrorResponse(T)": {
+          "Lines": {
+            "18": 50,
+            "19": 50,
+            "20": 50,
+            "21": 50,
+            "22": 50,
+            "23": 50
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Data\\Repositories\\Adress\\AdressRepository.cs": {
+      "System.Application.Data.Repositories.AdressRepository": {
+        "System.Application.Data.Entities.Adresses.AdressEntity System.Application.Data.Repositories.AdressRepository::Create(System.Application.Data.Entities.Adresses.AdressEntity)": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "49": 0
+          },
+          "Branches": [
+            {
+              "Line": 45,
+              "Offset": 128,
+              "EndOffset": 130,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 45,
+              "Offset": 128,
+              "EndOffset": 134,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Application.Data.Entities.Adresses.AdressEntity System.Application.Data.Repositories.AdressRepository::Update(System.Application.Data.Entities.Adresses.AdressEntity)": {
+          "Lines": {
+            "51": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "75": 0,
+            "76": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "84": 0
+          },
+          "Branches": [
+            {
+              "Line": 81,
+              "Offset": 133,
+              "EndOffset": 135,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 81,
+              "Offset": 133,
+              "EndOffset": 139,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean System.Application.Data.Repositories.AdressRepository::Delete(System.Guid)": {
+          "Lines": {
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "102": 0
+          },
+          "Branches": [
+            {
+              "Line": 98,
+              "Offset": 87,
+              "EndOffset": 89,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 98,
+              "Offset": 87,
+              "EndOffset": 93,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Application.Data.Entities.Adresses.AdressEntity System.Application.Data.Repositories.AdressRepository::Get(System.Guid)": {
+          "Lines": {
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "122": 0
+          },
+          "Branches": [
+            {
+              "Line": 118,
+              "Offset": 88,
+              "EndOffset": 90,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 118,
+              "Offset": 88,
+              "EndOffset": 94,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Application.Data.Entities.Adresses.AdressEntity System.Application.Data.Repositories.AdressRepository::GetAddressByCostumerId(System.Guid)": {
+          "Lines": {
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "133": 0
+          },
+          "Branches": []
+        },
+        "System.Void System.Application.Data.Repositories.AdressRepository::.ctor(System.Application.Data.MySql.MySqlContext)": {
+          "Lines": {
+            "13": 33,
+            "14": 33,
+            "15": 33,
+            "16": 33
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Data\\Repositories\\Products\\ProductRepository.cs": {
+      "System.Application.Data.Repositories.Products.ProductRepository": {
+        "System.Application.Data.Entities.Products.ProductEntity System.Application.Data.Repositories.Products.ProductRepository::Create(System.Application.Data.Entities.Products.ProductEntity)": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "49": 0
+          },
+          "Branches": [
+            {
+              "Line": 45,
+              "Offset": 122,
+              "EndOffset": 124,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 45,
+              "Offset": 122,
+              "EndOffset": 128,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Application.Data.Entities.Products.ProductEntity System.Application.Data.Repositories.Products.ProductRepository::Update(System.Application.Data.Entities.Products.ProductEntity)": {
+          "Lines": {
+            "52": 1,
+            "54": 1,
+            "55": 1,
+            "56": 1,
+            "57": 1,
+            "58": 1,
+            "59": 1,
+            "60": 1,
+            "61": 1,
+            "62": 1,
+            "63": 1,
+            "65": 1,
+            "66": 1,
+            "67": 1,
+            "68": 1,
+            "69": 1,
+            "70": 1,
+            "71": 1,
+            "72": 1,
+            "73": 1,
+            "74": 1,
+            "76": 1,
+            "77": 1,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "85": 1
+          },
+          "Branches": [
+            {
+              "Line": 82,
+              "Offset": 133,
+              "EndOffset": 135,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 82,
+              "Offset": 133,
+              "EndOffset": 139,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean System.Application.Data.Repositories.Products.ProductRepository::Delete(System.Guid)": {
+          "Lines": {
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "104": 0
+          },
+          "Branches": [
+            {
+              "Line": 100,
+              "Offset": 87,
+              "EndOffset": 89,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 100,
+              "Offset": 87,
+              "EndOffset": 93,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Application.Data.Entities.Products.ProductEntity System.Application.Data.Repositories.Products.ProductRepository::Get(System.Guid)": {
+          "Lines": {
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "125": 0
+          },
+          "Branches": [
+            {
+              "Line": 121,
+              "Offset": 88,
+              "EndOffset": 90,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 121,
+              "Offset": 88,
+              "EndOffset": 94,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Application.Data.Entities.Products.ProductEntity System.Application.Data.Repositories.Products.ProductRepository::GetByCode(System.String)": {
+          "Lines": {
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "137": 0
+          },
+          "Branches": []
+        },
+        "System.Void System.Application.Data.Repositories.Products.ProductRepository::.ctor(System.Application.Data.MySql.MySqlContext)": {
+          "Lines": {
+            "15": 17,
+            "16": 17,
+            "17": 17,
+            "18": 17
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Data\\Repositories\\Orders\\OrderRepository.cs": {
+      "System.Application.Data.Repositories.Orders.OrderRepository": {
+        "System.Application.Data.Entities.Orders.OrderEntity System.Application.Data.Repositories.Orders.OrderRepository::Create(System.Application.Data.Entities.Orders.OrderEntity)": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "49": 0
+          },
+          "Branches": [
+            {
+              "Line": 45,
+              "Offset": 128,
+              "EndOffset": 130,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 45,
+              "Offset": 128,
+              "EndOffset": 134,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean System.Application.Data.Repositories.Orders.OrderRepository::Delete(System.Guid)": {
+          "Lines": {
+            "51": 1,
+            "52": 1,
+            "53": 1,
+            "55": 1,
+            "56": 1,
+            "57": 1,
+            "58": 1,
+            "59": 1,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "67": 1
+          },
+          "Branches": [
+            {
+              "Line": 63,
+              "Offset": 87,
+              "EndOffset": 89,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 87,
+              "EndOffset": 93,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Application.Data.Entities.Orders.OrderEntity System.Application.Data.Repositories.Orders.OrderRepository::Get(System.Guid)": {
+          "Lines": {
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "87": 0
+          },
+          "Branches": [
+            {
+              "Line": 83,
+              "Offset": 88,
+              "EndOffset": 90,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 83,
+              "Offset": 88,
+              "EndOffset": 94,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Application.Data.Entities.Orders.OrderEntity System.Application.Data.Repositories.Orders.OrderRepository::GetOrderByNumber(System.String)": {
+          "Lines": {
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "96": 0,
+            "98": 0
+          },
+          "Branches": []
+        },
+        "System.Application.Data.Entities.Orders.OrderEntity System.Application.Data.Repositories.Orders.OrderRepository::GetOrderByCostumerId(System.Guid)": {
+          "Lines": {
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "107": 0,
+            "109": 0
+          },
+          "Branches": []
+        },
+        "System.Application.Data.Entities.Orders.OrderEntity System.Application.Data.Repositories.Orders.OrderRepository::GetOrderByAddressId(System.Guid)": {
+          "Lines": {
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "118": 0,
+            "120": 0
+          },
+          "Branches": []
+        },
+        "System.Void System.Application.Data.Repositories.Orders.OrderRepository::.ctor(System.Application.Data.MySql.MySqlContext)": {
+          "Lines": {
+            "15": 47,
+            "16": 47,
+            "17": 47,
+            "18": 47
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Data\\Repositories\\OrderItems\\OrderItemRepository.cs": {
+      "System.Application.Data.Repositories.OrderItems.OrderItemRepository": {
+        "System.Application.Data.Entities.OrderItems.OrderItemEntity System.Application.Data.Repositories.OrderItems.OrderItemRepository::Create(System.Application.Data.Entities.OrderItems.OrderItemEntity)": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "37": 0,
+            "38": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "46": 0
+          },
+          "Branches": [
+            {
+              "Line": 42,
+              "Offset": 122,
+              "EndOffset": 124,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 42,
+              "Offset": 122,
+              "EndOffset": 128,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Application.Data.Entities.OrderItems.OrderItemEntity System.Application.Data.Repositories.OrderItems.OrderItemRepository::Update(System.Application.Data.Entities.OrderItems.OrderItemEntity)": {
+          "Lines": {
+            "48": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "72": 0,
+            "73": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "81": 0
+          },
+          "Branches": [
+            {
+              "Line": 78,
+              "Offset": 133,
+              "EndOffset": 135,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 78,
+              "Offset": 133,
+              "EndOffset": 139,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean System.Application.Data.Repositories.OrderItems.OrderItemRepository::Delete(System.Guid)": {
+          "Lines": {
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "99": 0
+          },
+          "Branches": [
+            {
+              "Line": 95,
+              "Offset": 87,
+              "EndOffset": 89,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 95,
+              "Offset": 87,
+              "EndOffset": 93,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Application.Data.Entities.OrderItems.OrderItemEntity System.Application.Data.Repositories.OrderItems.OrderItemRepository::Get(System.Guid)": {
+          "Lines": {
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "119": 0
+          },
+          "Branches": [
+            {
+              "Line": 115,
+              "Offset": 88,
+              "EndOffset": 90,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 115,
+              "Offset": 88,
+              "EndOffset": 94,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Application.Data.Entities.OrderItems.OrderItemEntity System.Application.Data.Repositories.OrderItems.OrderItemRepository::GetOrderItemByProductId(System.Guid)": {
+          "Lines": {
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "129": 0,
+            "131": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<System.Application.Data.Entities.OrderItems.OrderItemEntity> System.Application.Data.Repositories.OrderItems.OrderItemRepository::GetOrderItemByOrderId(System.Guid)": {
+          "Lines": {
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "141": 0,
+            "143": 0
+          },
+          "Branches": []
+        },
+        "System.Void System.Application.Data.Repositories.OrderItems.OrderItemRepository::.ctor(System.Application.Data.MySql.MySqlContext)": {
+          "Lines": {
+            "13": 31,
+            "14": 31,
+            "15": 31,
+            "16": 31
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Data\\Repositories\\Costumers\\CostumerRepository.cs": {
+      "System.Application.Data.Repositories.Costumers.CostumerRepository": {
+        "System.Application.Data.Entities.Costumers.CostumerEntity System.Application.Data.Repositories.Costumers.CostumerRepository::Create(System.Application.Data.Entities.Costumers.CostumerEntity)": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "41": 0,
+            "42": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "50": 0
+          },
+          "Branches": [
+            {
+              "Line": 46,
+              "Offset": 122,
+              "EndOffset": 124,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 122,
+              "EndOffset": 128,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Application.Data.Entities.Costumers.CostumerEntity System.Application.Data.Repositories.Costumers.CostumerRepository::Update(System.Application.Data.Entities.Costumers.CostumerEntity)": {
+          "Lines": {
+            "53": 1,
+            "55": 1,
+            "56": 1,
+            "57": 1,
+            "58": 1,
+            "59": 1,
+            "60": 1,
+            "61": 1,
+            "62": 1,
+            "63": 1,
+            "64": 1,
+            "65": 1,
+            "66": 1,
+            "67": 1,
+            "68": 1,
+            "69": 1,
+            "70": 1,
+            "71": 1,
+            "72": 1,
+            "73": 1,
+            "74": 1,
+            "76": 1,
+            "77": 1,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "85": 1
+          },
+          "Branches": [
+            {
+              "Line": 82,
+              "Offset": 133,
+              "EndOffset": 135,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 82,
+              "Offset": 133,
+              "EndOffset": 139,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean System.Application.Data.Repositories.Costumers.CostumerRepository::Delete(System.Guid)": {
+          "Lines": {
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "104": 0
+          },
+          "Branches": [
+            {
+              "Line": 100,
+              "Offset": 87,
+              "EndOffset": 89,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 100,
+              "Offset": 87,
+              "EndOffset": 93,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Application.Data.Entities.Costumers.CostumerEntity System.Application.Data.Repositories.Costumers.CostumerRepository::Get(System.Guid)": {
+          "Lines": {
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "125": 0
+          },
+          "Branches": [
+            {
+              "Line": 121,
+              "Offset": 88,
+              "EndOffset": 90,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 121,
+              "Offset": 88,
+              "EndOffset": 94,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Application.Data.Entities.Costumers.CostumerEntity System.Application.Data.Repositories.Costumers.CostumerRepository::GetByDocument(System.String)": {
+          "Lines": {
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "137": 0
+          },
+          "Branches": []
+        },
+        "System.Void System.Application.Data.Repositories.Costumers.CostumerRepository::.ctor(System.Application.Data.MySql.MySqlContext)": {
+          "Lines": {
+            "14": 18,
+            "15": 18,
+            "16": 18,
+            "17": 18
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Data\\MySql\\MySqlContext.cs": {
+      "System.Application.Data.MySql.MySqlContext": {
+        "MySql.Data.MySqlClient.MySqlConnection System.Application.Data.MySql.MySqlContext::Connect()": {
+          "Lines": {
+            "14": 3,
+            "15": 3,
+            "16": 3,
+            "17": 3,
+            "18": 3
+          },
+          "Branches": []
+        },
+        "System.Void System.Application.Data.MySql.MySqlContext::.ctor()": {
+          "Lines": {
+            "10": 146
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Data\\Entities\\Products\\ProductEntity.cs": {
+      "System.Application.Data.Entities.Products.ProductEntity": {
+        "System.Guid System.Application.Data.Entities.Products.ProductEntity::get_Id()": {
+          "Lines": {
+            "42": 12
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Data.Entities.Products.ProductEntity::get_productName()": {
+          "Lines": {
+            "47": 4
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Data.Entities.Products.ProductEntity::get_productCode()": {
+          "Lines": {
+            "52": 4
+          },
+          "Branches": []
+        },
+        "System.Int32 System.Application.Data.Entities.Products.ProductEntity::get_quantity()": {
+          "Lines": {
+            "57": 4
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Data.Entities.Products.ProductEntity::get_productDescription()": {
+          "Lines": {
+            "62": 4
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Data.Entities.Products.ProductEntity::get_model()": {
+          "Lines": {
+            "67": 4
+          },
+          "Branches": []
+        },
+        "System.Double System.Application.Data.Entities.Products.ProductEntity::get_productValue()": {
+          "Lines": {
+            "72": 4
+          },
+          "Branches": []
+        },
+        "System.DateTime System.Application.Data.Entities.Products.ProductEntity::get_creationDate()": {
+          "Lines": {
+            "77": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime System.Application.Data.Entities.Products.ProductEntity::get_updatedDate()": {
+          "Lines": {
+            "82": 0
+          },
+          "Branches": []
+        },
+        "System.Void System.Application.Data.Entities.Products.ProductEntity::.ctor(System.Application.Contracts.Request.Products.ProductPostRequest)": {
+          "Lines": {
+            "13": 2,
+            "14": 2,
+            "15": 2,
+            "16": 2,
+            "17": 2,
+            "18": 2,
+            "19": 2,
+            "20": 2,
+            "21": 2,
+            "22": 2
+          },
+          "Branches": []
+        },
+        "System.Void System.Application.Data.Entities.Products.ProductEntity::.ctor(System.Application.Contracts.Request.Products.ProductPutRequest)": {
+          "Lines": {
+            "23": 1,
+            "24": 1,
+            "25": 1,
+            "26": 1,
+            "27": 1,
+            "28": 1,
+            "29": 1,
+            "30": 1,
+            "31": 1,
+            "32": 1
+          },
+          "Branches": []
+        },
+        "System.Void System.Application.Data.Entities.Products.ProductEntity::.ctor()": {
+          "Lines": {
+            "33": 7,
+            "34": 7,
+            "36": 7
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Data\\Entities\\Orders\\OrderEntity.cs": {
+      "System.Application.Data.Entities.Orders.OrderEntity": {
+        "System.Guid System.Application.Data.Entities.Orders.OrderEntity::get_Id()": {
+          "Lines": {
+            "34": 16
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Data.Entities.Orders.OrderEntity::get_orderNumber()": {
+          "Lines": {
+            "39": 3
+          },
+          "Branches": []
+        },
+        "System.Guid System.Application.Data.Entities.Orders.OrderEntity::get_costumerId()": {
+          "Lines": {
+            "44": 3
+          },
+          "Branches": []
+        },
+        "System.Guid System.Application.Data.Entities.Orders.OrderEntity::get_costumerAddressId()": {
+          "Lines": {
+            "49": 3
+          },
+          "Branches": []
+        },
+        "System.Double System.Application.Data.Entities.Orders.OrderEntity::get_subTotal()": {
+          "Lines": {
+            "54": 3
+          },
+          "Branches": []
+        },
+        "System.Double System.Application.Data.Entities.Orders.OrderEntity::get_freight()": {
+          "Lines": {
+            "59": 3
+          },
+          "Branches": []
+        },
+        "System.Double System.Application.Data.Entities.Orders.OrderEntity::get_total()": {
+          "Lines": {
+            "64": 3
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<System.Application.Data.Entities.OrderItems.OrderItemEntity> System.Application.Data.Entities.Orders.OrderEntity::get_items()": {
+          "Lines": {
+            "69": 8
+          },
+          "Branches": []
+        },
+        "System.DateTime System.Application.Data.Entities.Orders.OrderEntity::get_creationDate()": {
+          "Lines": {
+            "74": 0
+          },
+          "Branches": []
+        },
+        "System.Void System.Application.Data.Entities.Orders.OrderEntity::.ctor(System.Application.Contracts.Request.Orders.OrderPostRequest)": {
+          "Lines": {
+            "14": 3,
+            "15": 3,
+            "16": 3,
+            "17": 3,
+            "18": 3,
+            "19": 3,
+            "20": 3,
+            "21": 3,
+            "22": 3,
+            "23": 3,
+            "24": 3
+          },
+          "Branches": []
+        },
+        "System.Void System.Application.Data.Entities.Orders.OrderEntity::.ctor()": {
+          "Lines": {
+            "25": 8,
+            "26": 8,
+            "28": 8
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Data\\Entities\\OrderItems\\OrderItemEntity.cs": {
+      "System.Application.Data.Entities.OrderItems.OrderItemEntity": {
+        "System.Guid System.Application.Data.Entities.OrderItems.OrderItemEntity::get_Id()": {
+          "Lines": {
+            "42": 10
+          },
+          "Branches": []
+        },
+        "System.Guid System.Application.Data.Entities.OrderItems.OrderItemEntity::get_orderId()": {
+          "Lines": {
+            "47": 10
+          },
+          "Branches": []
+        },
+        "System.Guid System.Application.Data.Entities.OrderItems.OrderItemEntity::get_productId()": {
+          "Lines": {
+            "52": 10
+          },
+          "Branches": []
+        },
+        "System.Double System.Application.Data.Entities.OrderItems.OrderItemEntity::get_quantity()": {
+          "Lines": {
+            "57": 10
+          },
+          "Branches": []
+        },
+        "System.Double System.Application.Data.Entities.OrderItems.OrderItemEntity::get_freight()": {
+          "Lines": {
+            "62": 15
+          },
+          "Branches": []
+        },
+        "System.Double System.Application.Data.Entities.OrderItems.OrderItemEntity::get_unityValue()": {
+          "Lines": {
+            "67": 15
+          },
+          "Branches": []
+        },
+        "System.Double System.Application.Data.Entities.OrderItems.OrderItemEntity::get_total()": {
+          "Lines": {
+            "72": 15
+          },
+          "Branches": []
+        },
+        "System.DateTime System.Application.Data.Entities.OrderItems.OrderItemEntity::get_creationDate()": {
+          "Lines": {
+            "77": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime System.Application.Data.Entities.OrderItems.OrderItemEntity::get_updatedDate()": {
+          "Lines": {
+            "82": 0
+          },
+          "Branches": []
+        },
+        "System.Void System.Application.Data.Entities.OrderItems.OrderItemEntity::.ctor(System.Application.Contracts.Request.OrderItems.OrderItemPostRequest)": {
+          "Lines": {
+            "13": 2,
+            "14": 2,
+            "15": 2,
+            "16": 2,
+            "17": 2,
+            "18": 2,
+            "19": 2,
+            "20": 2,
+            "21": 2,
+            "22": 2
+          },
+          "Branches": []
+        },
+        "System.Void System.Application.Data.Entities.OrderItems.OrderItemEntity::.ctor(System.Application.Contracts.Request.OrderItems.OrderItemPutRequest)": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0
+          },
+          "Branches": []
+        },
+        "System.Void System.Application.Data.Entities.OrderItems.OrderItemEntity::.ctor()": {
+          "Lines": {
+            "33": 8,
+            "34": 8,
+            "36": 8
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Data\\Entities\\Costumers\\CostumerEntity.cs": {
+      "System.Application.Data.Entities.Costumers.CostumerEntity": {
+        "System.Guid System.Application.Data.Entities.Costumers.CostumerEntity::get_Id()": {
+          "Lines": {
+            "42": 14
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Data.Entities.Costumers.CostumerEntity::get_costumerName()": {
+          "Lines": {
+            "47": 4
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Data.Entities.Costumers.CostumerEntity::get_document()": {
+          "Lines": {
+            "52": 4
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Data.Entities.Costumers.CostumerEntity::get_phoneNumber()": {
+          "Lines": {
+            "57": 4
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Data.Entities.Costumers.CostumerEntity::get_email()": {
+          "Lines": {
+            "62": 4
+          },
+          "Branches": []
+        },
+        "System.DateTime System.Application.Data.Entities.Costumers.CostumerEntity::get_birthdate()": {
+          "Lines": {
+            "67": 4
+          },
+          "Branches": []
+        },
+        "System.Int32 System.Application.Data.Entities.Costumers.CostumerEntity::get_gender()": {
+          "Lines": {
+            "72": 4
+          },
+          "Branches": []
+        },
+        "System.DateTime System.Application.Data.Entities.Costumers.CostumerEntity::get_creationDate()": {
+          "Lines": {
+            "77": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime System.Application.Data.Entities.Costumers.CostumerEntity::get_updatedDate()": {
+          "Lines": {
+            "82": 0
+          },
+          "Branches": []
+        },
+        "System.Void System.Application.Data.Entities.Costumers.CostumerEntity::.ctor(System.Application.Contracts.Request.Costumers.CostumerPostRequest)": {
+          "Lines": {
+            "13": 2,
+            "14": 2,
+            "15": 2,
+            "16": 2,
+            "17": 2,
+            "18": 2,
+            "19": 2,
+            "20": 2,
+            "21": 2,
+            "22": 2
+          },
+          "Branches": []
+        },
+        "System.Void System.Application.Data.Entities.Costumers.CostumerEntity::.ctor(System.Application.Contracts.Request.Costumers.CostumerPutRequest)": {
+          "Lines": {
+            "23": 1,
+            "24": 1,
+            "25": 1,
+            "26": 1,
+            "27": 1,
+            "28": 1,
+            "29": 1,
+            "30": 1,
+            "31": 1,
+            "32": 1
+          },
+          "Branches": []
+        },
+        "System.Void System.Application.Data.Entities.Costumers.CostumerEntity::.ctor()": {
+          "Lines": {
+            "33": 9,
+            "34": 9,
+            "36": 9
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Data\\Entities\\Adresses\\AdressEntity.cs": {
+      "System.Application.Data.Entities.Adresses.AdressEntity": {
+        "System.Guid System.Application.Data.Entities.Adresses.AdressEntity::get_Id()": {
+          "Lines": {
+            "42": 8
+          },
+          "Branches": []
+        },
+        "System.Guid System.Application.Data.Entities.Adresses.AdressEntity::get_costumerId()": {
+          "Lines": {
+            "47": 2
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Data.Entities.Adresses.AdressEntity::get_address()": {
+          "Lines": {
+            "52": 2
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Data.Entities.Adresses.AdressEntity::get_addressNumber()": {
+          "Lines": {
+            "57": 2
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Data.Entities.Adresses.AdressEntity::get_neighborhood()": {
+          "Lines": {
+            "62": 2
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Data.Entities.Adresses.AdressEntity::get_postalCode()": {
+          "Lines": {
+            "67": 2
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Data.Entities.Adresses.AdressEntity::get_country()": {
+          "Lines": {
+            "72": 2
+          },
+          "Branches": []
+        },
+        "System.DateTime System.Application.Data.Entities.Adresses.AdressEntity::get_creationDate()": {
+          "Lines": {
+            "77": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime System.Application.Data.Entities.Adresses.AdressEntity::get_updatedDate()": {
+          "Lines": {
+            "81": 0
+          },
+          "Branches": []
+        },
+        "System.Void System.Application.Data.Entities.Adresses.AdressEntity::.ctor(System.Application.Contracts.Request.Adress.AdressPostRequest)": {
+          "Lines": {
+            "13": 1,
+            "14": 1,
+            "15": 1,
+            "16": 1,
+            "17": 1,
+            "18": 1,
+            "19": 1,
+            "20": 1,
+            "21": 1,
+            "22": 1
+          },
+          "Branches": []
+        },
+        "System.Void System.Application.Data.Entities.Adresses.AdressEntity::.ctor(System.Application.Contracts.Request.Adress.AdressPutRequest)": {
+          "Lines": {
+            "23": 1,
+            "24": 1,
+            "25": 1,
+            "26": 1,
+            "27": 1,
+            "28": 1,
+            "29": 1,
+            "30": 1,
+            "31": 1,
+            "32": 1
+          },
+          "Branches": []
+        },
+        "System.Void System.Application.Data.Entities.Adresses.AdressEntity::.ctor()": {
+          "Lines": {
+            "33": 6,
+            "34": 6,
+            "36": 6
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Contracts\\Request\\Products\\ProductPostRequest.cs": {
+      "System.Application.Contracts.Request.Products.ProductPostRequest": {
+        "System.String System.Application.Contracts.Request.Products.ProductPostRequest::get_productName()": {
+          "Lines": {
+            "9": 10
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Products.ProductPostRequest::get_productCode()": {
+          "Lines": {
+            "10": 13
+          },
+          "Branches": []
+        },
+        "System.Int32 System.Application.Contracts.Request.Products.ProductPostRequest::get_quantity()": {
+          "Lines": {
+            "11": 10
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Products.ProductPostRequest::get_productDescription()": {
+          "Lines": {
+            "12": 10
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Products.ProductPostRequest::get_model()": {
+          "Lines": {
+            "13": 10
+          },
+          "Branches": []
+        },
+        "System.Double System.Application.Contracts.Request.Products.ProductPostRequest::get_productValue()": {
+          "Lines": {
+            "14": 10
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Contracts\\Request\\Products\\ProductPutRequest.cs": {
+      "System.Application.Contracts.Request.Products.ProductPutRequest": {
+        "System.Guid System.Application.Contracts.Request.Products.ProductPutRequest::get_id()": {
+          "Lines": {
+            "9": 14
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Products.ProductPutRequest::get_productName()": {
+          "Lines": {
+            "10": 10
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Products.ProductPutRequest::get_productCode()": {
+          "Lines": {
+            "11": 13
+          },
+          "Branches": []
+        },
+        "System.Int32 System.Application.Contracts.Request.Products.ProductPutRequest::get_quantity()": {
+          "Lines": {
+            "12": 10
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Products.ProductPutRequest::get_productDescription()": {
+          "Lines": {
+            "13": 10
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Products.ProductPutRequest::get_model()": {
+          "Lines": {
+            "14": 10
+          },
+          "Branches": []
+        },
+        "System.Double System.Application.Contracts.Request.Products.ProductPutRequest::get_productValue()": {
+          "Lines": {
+            "15": 10
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Contracts\\Request\\Orders\\OrderPostRequest.cs": {
+      "System.Application.Contracts.Request.Orders.OrderPostRequest": {
+        "System.String System.Application.Contracts.Request.Orders.OrderPostRequest::get_orderNumber()": {
+          "Lines": {
+            "10": 19
+          },
+          "Branches": []
+        },
+        "System.Guid System.Application.Contracts.Request.Orders.OrderPostRequest::get_costumerId()": {
+          "Lines": {
+            "11": 9
+          },
+          "Branches": []
+        },
+        "System.Guid System.Application.Contracts.Request.Orders.OrderPostRequest::get_costumerAddressId()": {
+          "Lines": {
+            "12": 9
+          },
+          "Branches": []
+        },
+        "System.Double System.Application.Contracts.Request.Orders.OrderPostRequest::get_subTotal()": {
+          "Lines": {
+            "13": 19
+          },
+          "Branches": []
+        },
+        "System.Double System.Application.Contracts.Request.Orders.OrderPostRequest::get_freight()": {
+          "Lines": {
+            "14": 13
+          },
+          "Branches": []
+        },
+        "System.Double System.Application.Contracts.Request.Orders.OrderPostRequest::get_total()": {
+          "Lines": {
+            "15": 20
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<System.Application.Data.Entities.OrderItems.OrderItemEntity> System.Application.Contracts.Request.Orders.OrderPostRequest::get_items()": {
+          "Lines": {
+            "16": 16
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Contracts\\Request\\OrderItems\\OrderItemPostRequest.cs": {
+      "System.Application.Contracts.Request.OrderItems.OrderItemPostRequest": {
+        "System.Guid System.Application.Contracts.Request.OrderItems.OrderItemPostRequest::get_orderId()": {
+          "Lines": {
+            "9": 6
+          },
+          "Branches": []
+        },
+        "System.Guid System.Application.Contracts.Request.OrderItems.OrderItemPostRequest::get_productId()": {
+          "Lines": {
+            "10": 6
+          },
+          "Branches": []
+        },
+        "System.Double System.Application.Contracts.Request.OrderItems.OrderItemPostRequest::get_quantity()": {
+          "Lines": {
+            "11": 6
+          },
+          "Branches": []
+        },
+        "System.Double System.Application.Contracts.Request.OrderItems.OrderItemPostRequest::get_freight()": {
+          "Lines": {
+            "12": 4
+          },
+          "Branches": []
+        },
+        "System.Double System.Application.Contracts.Request.OrderItems.OrderItemPostRequest::get_unityValue()": {
+          "Lines": {
+            "13": 6
+          },
+          "Branches": []
+        },
+        "System.Double System.Application.Contracts.Request.OrderItems.OrderItemPostRequest::get_total()": {
+          "Lines": {
+            "14": 8
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Contracts\\Request\\OrderItems\\OrderItemPutRequest.cs": {
+      "System.Application.Contracts.Request.OrderItems.OrderItemPutRequest": {
+        "System.Guid System.Application.Contracts.Request.OrderItems.OrderItemPutRequest::get_id()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Guid System.Application.Contracts.Request.OrderItems.OrderItemPutRequest::get_orderId()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Guid System.Application.Contracts.Request.OrderItems.OrderItemPutRequest::get_productId()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Double System.Application.Contracts.Request.OrderItems.OrderItemPutRequest::get_quantity()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Double System.Application.Contracts.Request.OrderItems.OrderItemPutRequest::get_freight()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Double System.Application.Contracts.Request.OrderItems.OrderItemPutRequest::get_unityValue()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Double System.Application.Contracts.Request.OrderItems.OrderItemPutRequest::get_total()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Contracts\\Request\\Costumers\\CostumerPostRequest.cs": {
+      "System.Application.Contracts.Request.Costumers.CostumerPostRequest": {
+        "System.String System.Application.Contracts.Request.Costumers.CostumerPostRequest::get_costumerName()": {
+          "Lines": {
+            "9": 10
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Costumers.CostumerPostRequest::get_document()": {
+          "Lines": {
+            "10": 13
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Costumers.CostumerPostRequest::get_phoneNumber()": {
+          "Lines": {
+            "11": 10
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Costumers.CostumerPostRequest::get_email()": {
+          "Lines": {
+            "12": 10
+          },
+          "Branches": []
+        },
+        "System.DateTime System.Application.Contracts.Request.Costumers.CostumerPostRequest::get_birthdate()": {
+          "Lines": {
+            "13": 10
+          },
+          "Branches": []
+        },
+        "System.Int32 System.Application.Contracts.Request.Costumers.CostumerPostRequest::get_gender()": {
+          "Lines": {
+            "14": 6
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Contracts\\Request\\Costumers\\CostumerPutRequest.cs": {
+      "System.Application.Contracts.Request.Costumers.CostumerPutRequest": {
+        "System.Guid System.Application.Contracts.Request.Costumers.CostumerPutRequest::get_id()": {
+          "Lines": {
+            "9": 15
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Costumers.CostumerPutRequest::get_costumerName()": {
+          "Lines": {
+            "10": 10
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Costumers.CostumerPutRequest::get_document()": {
+          "Lines": {
+            "11": 12
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Costumers.CostumerPutRequest::get_phoneNumber()": {
+          "Lines": {
+            "12": 10
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Costumers.CostumerPutRequest::get_email()": {
+          "Lines": {
+            "13": 10
+          },
+          "Branches": []
+        },
+        "System.DateTime System.Application.Contracts.Request.Costumers.CostumerPutRequest::get_birthdate()": {
+          "Lines": {
+            "14": 10
+          },
+          "Branches": []
+        },
+        "System.Int32 System.Application.Contracts.Request.Costumers.CostumerPutRequest::get_gender()": {
+          "Lines": {
+            "15": 6
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Contracts\\Request\\Adress\\AdressPostRequest.cs": {
+      "System.Application.Contracts.Request.Adress.AdressPostRequest": {
+        "System.Guid System.Application.Contracts.Request.Adress.AdressPostRequest::get_costumerId()": {
+          "Lines": {
+            "9": 7
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Adress.AdressPostRequest::get_address()": {
+          "Lines": {
+            "10": 6
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Adress.AdressPostRequest::get_addressNumber()": {
+          "Lines": {
+            "11": 6
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Adress.AdressPostRequest::get_neighborhood()": {
+          "Lines": {
+            "12": 6
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Adress.AdressPostRequest::get_postalCode()": {
+          "Lines": {
+            "13": 6
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Adress.AdressPostRequest::get_country()": {
+          "Lines": {
+            "14": 6
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Application\\Contracts\\Request\\Adress\\AdressPutRequest.cs": {
+      "System.Application.Contracts.Request.Adress.AdressPutRequest": {
+        "System.Guid System.Application.Contracts.Request.Adress.AdressPutRequest::get_Id()": {
+          "Lines": {
+            "9": 9
+          },
+          "Branches": []
+        },
+        "System.Guid System.Application.Contracts.Request.Adress.AdressPutRequest::get_costumerId()": {
+          "Lines": {
+            "10": 8
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Adress.AdressPutRequest::get_address()": {
+          "Lines": {
+            "11": 7
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Adress.AdressPutRequest::get_addressNumber()": {
+          "Lines": {
+            "12": 7
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Adress.AdressPutRequest::get_neighborhood()": {
+          "Lines": {
+            "13": 7
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Adress.AdressPutRequest::get_postalCode()": {
+          "Lines": {
+            "14": 7
+          },
+          "Branches": []
+        },
+        "System.String System.Application.Contracts.Request.Adress.AdressPutRequest::get_country()": {
+          "Lines": {
+            "15": 7
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "System.Costumer.API.Default.dll": {
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Costumer.API.Default\\Program.cs": {
+      "System.Costumer.API.Default.Program": {
+        "System.Void System.Costumer.API.Default.Program::Main(System.String[])": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "12": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Hosting.IWebHostBuilder System.Costumer.API.Default.Program::CreateWebHostBuilder(System.String[])": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Costumer.API.Default\\Startup.cs": {
+      "System.Costumer.API.Default.Startup": {
+        "Microsoft.Extensions.Configuration.IConfiguration System.Costumer.API.Default.Startup::get_Configuration()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Void System.Costumer.API.Default.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0
+          },
+          "Branches": []
+        },
+        "System.Void System.Costumer.API.Default.Startup::BeforeConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "48": 0,
+            "50": 0
+          },
+          "Branches": []
+        },
+        "System.Void System.Costumer.API.Default.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)": {
+          "Lines": {
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0
+          },
+          "Branches": [
+            {
+              "Line": 53,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 53,
+              "Offset": 9,
+              "EndOffset": 22,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void System.Costumer.API.Default.Startup::.ctor()": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "25": 0
+          },
+          "Branches": []
+        },
+        "System.Void System.Costumer.API.Default.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Costumer.API.Default\\v1\\AdressController.cs": {
+      "System.Costumer.API.Default.v1.AdressController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult System.Costumer.API.Default.v1.AdressController::Post(System.Application.Contracts.Request.Adress.AdressPostRequest)": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult System.Costumer.API.Default.v1.AdressController::Update(System.Application.Contracts.Request.Adress.AdressPutRequest)": {
+          "Lines": {
+            "29": 0,
+            "30": 0,
+            "31": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult System.Costumer.API.Default.v1.AdressController::Delete(System.Guid)": {
+          "Lines": {
+            "35": 0,
+            "36": 0,
+            "37": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult System.Costumer.API.Default.v1.AdressController::Get(System.Guid)": {
+          "Lines": {
+            "41": 0,
+            "42": 0,
+            "43": 0
+          },
+          "Branches": []
+        },
+        "System.Void System.Costumer.API.Default.v1.AdressController::.ctor(System.Application.Services.Adresses.AdressService)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programação\\MeusProjetos\\Web API\\BuySystem\\BuySystem\\System.Costumer.API.Default\\v1\\CostumerController.cs": {
+      "System.Costumer.API.Default.v1.CostumerController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult System.Costumer.API.Default.v1.CostumerController::Post(System.Application.Contracts.Request.Costumers.CostumerPostRequest)": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult System.Costumer.API.Default.v1.CostumerController::Update(System.Application.Contracts.Request.Costumers.CostumerPutRequest)": {
+          "Lines": {
+            "29": 0,
+            "30": 0,
+            "31": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult System.Costumer.API.Default.v1.CostumerController::Delete(System.Guid)": {
+          "Lines": {
+            "35": 0,
+            "36": 0,
+            "37": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult System.Costumer.API.Default.v1.CostumerController::Get(System.Guid)": {
+          "Lines": {
+            "41": 0,
+            "42": 0,
+            "43": 0
+          },
+          "Branches": []
+        },
+        "System.Void System.Costumer.API.Default.v1.CostumerController::.ctor(System.Application.Services.Costumers.CostumerService)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
